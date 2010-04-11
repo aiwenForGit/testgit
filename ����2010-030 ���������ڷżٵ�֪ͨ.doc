@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+body{
+	background-color: #f2f2f2;
+	   }
+</style>
+<title>拒绝访问</title>
+</head>
+<body>
+<br/><br/><br/><br/><br/><br/><hr color="gray" size="1" width="80%">
+<br/>
+<table width="70%" align="center" border="0" cellpadding="8" cellspacing="8">
+	<tr>
+		<td align="center">拒绝访问！</td>
+	</tr>
+	<tr>
+		<td>可能是如下原因，导致您无法访问：<br>
+1、对该信息无权限访问。<br>
+2、访问地址有误。</td>
+	</tr>
+	</table>
+<br/>
+<hr color="gray" size="1" width="80%">
+</body>
+</html>
